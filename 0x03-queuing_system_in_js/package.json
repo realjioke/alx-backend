@@ -1,4 +1,5 @@
-me": "queuing_system_in_js",
+{
+    "name": "queuing_system_in_js",
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
